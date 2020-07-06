@@ -10,6 +10,7 @@ acl.yaml:
   instructors:
     - arokem        # Ariel Rokem
     - emdupre       # Elizabeth DuPre
+    - satra         # Satrajit Ghosh
 
   # Instructors gain read access to the /nh/data folder
   participants:
